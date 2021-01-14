@@ -3,7 +3,7 @@
 My Website / http://hajerdardouri.me/
 <br/><br/>
 
-TP1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tarek2050/Probabilit-et-statistique/main?filepath=TP1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=TP1.ipynb)
 
 TP2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tarek2050/Probabilit-et-statistique/main?filepath=TP2.ipynb)
 
