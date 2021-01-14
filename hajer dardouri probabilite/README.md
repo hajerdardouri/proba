@@ -1,6 +1,6 @@
 # Probabilit-et-statistique
 
-My Website / http://hajerdardouri.me/
+My Website /[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=README.md)/
 <br/><br/>
 
 Tp1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=TP1.ipynb)
