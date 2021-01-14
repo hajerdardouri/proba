@@ -3,13 +3,11 @@
 My Website / http://hajerdardouri.me/
 <br/><br/>
 
-tp1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=TP1.ipynb)
+Tp1: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=TP1.ipynb)
 
 TP2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=TP2.ipynb)
 
-Rock Paper Scissors : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tarek2050/Probabilit-et-statistique/main?filepath=rockPaperScissors.ipynb)
-
-<br/>
+Rock Paper Scissors : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hajerdardouri/proba/tree/main/hajer%20dardouri%20probabilite/main?filepath=rockPaperScissors.ipynb)
 
 Probabilité et statistique
 
